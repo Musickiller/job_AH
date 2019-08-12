@@ -1,3 +1,4 @@
+##### SOLUTION #####
 def mapper(values, param:bool):
     if param:
         return values
@@ -9,6 +10,7 @@ def mapper(values, param:bool):
         else:
             return values
 
+##### TEST #####
 array = [
     (['no'], False),
     (None, True),
