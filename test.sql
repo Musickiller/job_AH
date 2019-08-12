@@ -12,11 +12,11 @@ INSERT INTO users VALUES(5,'Fedor', 'Travin', 'f.travin@gmail.com', 2);
 
 
 /* Посчитать кол-во пользователей с почтой на Gmail */
-/*
+
 SELECT COUNT()
 from users
 where email LIKE '%@gmail.com';
-*/
+
 
 
 
