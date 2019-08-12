@@ -7,8 +7,6 @@ INSERT INTO users VALUES(2,'Nicolai', 'Grigoriev', 'n.grigoriev@gmail.com', 1);
 INSERT INTO users VALUES(3,'Sergey', 'Kablukov', 's.kabl@mail.ru', 4);
 INSERT INTO users VALUES(4,'Sergey', 'Buchko', 'ab@acme.com', 3);
 INSERT INTO users VALUES(5,'Fedor', 'Travin', 'f.travin@gmail.com', 2);
-/* INSERT INTO users VALUES(6,'Vasyan', 'Sidorov', 'smth@gmail.com', 2); */
-/*COMMIT;*/
 
 
 /* Посчитать кол-во пользователей с почтой на Gmail */
